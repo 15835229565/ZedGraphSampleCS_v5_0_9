@@ -1,6 +1,6 @@
 namespace ZedGraphSample
 {
-	partial class Form1
+	partial class cht_lfa_boys_p_0_2_Form
 	{
 		/// <summary>
 		/// Required designer variable.

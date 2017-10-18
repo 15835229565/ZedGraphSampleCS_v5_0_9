@@ -15,7 +15,7 @@ namespace ZedGraphSample
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault( false );
 		    //LoadPointsHelper.GetPointPairList(@"‪E:\22.txt");
-			Application.Run( new Form1() );
+			Application.Run( new cht_lfa_boys_p_0_2_Form() );
 		}
 	}
 }
